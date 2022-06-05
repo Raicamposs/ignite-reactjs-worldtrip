@@ -17,8 +17,8 @@ const colors = {
     white: '##FFFFFF',
     font: '#F5F8FA',
     info: '#DADADA'
-  }
-
+  },
+  header: '#D9D9D9'
 }
 
 const fonts = {
@@ -32,7 +32,7 @@ const styles = {
       outline: 'none',
     },
     body: {
-      bg: 'light.white',
+      bg: 'light.font',
       color: 'dark.font',
     },
   },
